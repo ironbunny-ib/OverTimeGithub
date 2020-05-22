@@ -9,7 +9,7 @@
 
 I intend to opensource all three. Truth be told, I am not really sure
 how to do this, but I have ideas and will try them.
-
+![Image of OpenSourcing](https://raw.githubusercontent.com/ironbunny-ib/OverTimeGithub/master/Opensourcing.png)
 #
 
 Why is OT different?<br>
