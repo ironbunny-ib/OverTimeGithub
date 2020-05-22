@@ -25,7 +25,7 @@ This should not be happening.<br>
 
 OT is a tech company which adores people, animals and even inanimate matter. We love an asteroid and we love a lady **bug**<br>
 
-Decleration : 
+Declaration : 
 > We are always highly alert and aware of apparent threats of Artificial General Intelligence and purposefully create a future which is disparitively different as that in media, movies and ransackers. As we aim to be opensource in all our dealings, even money, things shall be questioned and reflected always, so we stay true to this.
 
 The world changes very fast, and though our purpose is to accelerate this to alleviate poverty, sins,.... we understand business cycles and people
