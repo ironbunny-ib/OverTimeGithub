@@ -12,7 +12,7 @@ how to do this, but I have ideas and will try them.<br><br>
 ![Image of OpenSourcing](https://raw.githubusercontent.com/ironbunny-ib/OverTimeGithub/master/Opensourcing.png)
 #
 
-Why is OT different?<br>
+Why is OT different?<br><br>
 There is a gap between the tech community and general community.<br>
 OT aims to close that - <br>
 
