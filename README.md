@@ -9,7 +9,9 @@
 
 I intend to opensource all three. Truth be told, I am not really sure
 how to do this, but I have ideas and will try them.<br><br>
-![Image of OpenSourcing](https://raw.githubusercontent.com/ironbunny-ib/OverTimeGithub/master/Opensourcing.png)
+![Image of OpenSourcing](Opensourcing.svg)
+<img src="Opensourcing.svg">
+
 #
 
 Why is OT different?<br><br>
