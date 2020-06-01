@@ -9,7 +9,7 @@
 
 I intend to opensource all three. Truth be told, I am not really sure
 how to do this, but I have ideas and will try them.<br><br>
-![Image of OpenSourcing](Opensourcing.svg)
+![Image of OpenSourcing](/assets/picturesOpensourcing.svg)
 
 #
 
