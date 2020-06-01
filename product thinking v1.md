@@ -35,4 +35,5 @@ Is it explorable for centuries?
 
 When you have identified a core, proceed in a sharable vision, better yet in a divergent vision, towards capturing the human market.
 
-![Brazen](https://drive.google.com/file/d/129C0GrTPAGxIPtGBPQyQQfhVmkLUhy90/view)
+
+![Image of TheoryvsNotheory](/assets/pictures/theoryvsnotheory.svg)
