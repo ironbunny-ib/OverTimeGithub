@@ -12,7 +12,8 @@
 
 >Directed thoughts when imagined forward towards the future or backwards towards the past are contemplations.
 
->Not being in the present is contemplation.
+>Not being in the present is contemplation.<br>
+>Not being the present and bringing some valuable insight is Kluting.
 
 **How would you describe the process of contemplation to a child?**
 
