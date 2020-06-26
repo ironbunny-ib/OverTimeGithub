@@ -9,7 +9,10 @@
 
 **What is contemplation?**
 <br>There can be many definitions!
-<br>Directed thoughts when imagined forward towards the future or backwards towards the past are contemplations.
+
+><br>Directed thoughts when imagined forward towards the future or backwards towards the past are contemplations.
+
+>Not being in the present is contemplation.
 
 **How would you describe the process of contemplation to a child?**
 
