@@ -1,5 +1,5 @@
 # Product Thinking - v1
-##### Some Tenants
+##### Some Tenets
 - the goal of the product is to solve user problems
 - the goal of UX is to make the product successful
 - the goal of UI is to keep it simple
