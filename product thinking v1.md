@@ -37,3 +37,6 @@ When you have identified a core, proceed in a sharable vision, better yet in a d
 
 
 ![Image of TheoryvsNotheory](/assets/pictures/theoryvsnotheory.svg)
+
+
+The graphic does depict capturing the entire market, and we do want to capture it and our product will capture it,<br> but the varied dynamics of time have not been depicted here. This is not said for understanding as much as for imagination, please Imagine!
