@@ -1,11 +1,14 @@
 ###### There can be addition, removal through team decisions
 
-#### Creation
+## Creation
 
-#### Consumption
+## Consumption
 
-#### Gamification and InterConnectedNess
+## Gamification and InterConnectedNess
+##### Persevere the failure
 
-#### The Product Itself
+<br>
+<br>
+## The Product Itself
 
-#### The Platform it will become
+## The Platform it will become
