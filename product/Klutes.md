@@ -22,3 +22,5 @@
 >B.<br> "Have you ever had to do something without knowing how it would end up?"
 
 ## Platform
+
+Possibility 1: The goto beautiful platform where people launch books and do every other associated task. Everything.
