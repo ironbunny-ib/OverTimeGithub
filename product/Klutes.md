@@ -3,6 +3,27 @@
 ## Creation
 ![Klutes Creation](/assets/pictures/creationKlutes.svg)
 
+**What all is going on here**
+There is the main theme of writing klutes, for that we have made some rewarding structure, and some constraint structure.<br>
+
+**About Kluting**
+There is an ability to write upto 100 Klutes. We can market as a limit or as a unlimited feature. You tell which one is correct .<br>
+Each Klute except the first requires atleast 140 characters and at most 230 characters. The first Klute has a lower limit of 5 characters.<br>
+The lower limit allows the creator to feign interest for the right reasons like creating sense of anticipation.<br>
+Good Kluters can capitalize on this and deliver powerful follow up messages.<br>
+
+**About how the reward structure helps in putting forward the power of Kluting**
+Writing is not easy, and great writers know it.<br>
+What are the words which will satiate their audience are not to be taken unseriously at all.<br>
+We reward this careful consideration to the extent of each character which touches the screen.<br>
+To be exact 4 points, per character are earned.
+
+**For the unitiated, your earned points are used to spend on consuming, that is for eg. reading somebody else's klutes**
+
+
+
+
+
 ## Consumption
 ![Klutes Consumption](/assets/pictures/consumptionKlutes.svg)
 
