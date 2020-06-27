@@ -25,13 +25,17 @@ People are good at some kind of content creation.<br>
 If this follow people who are good at kluting specifically, will gain not just good amount of points by creating.<br>
 But the peope who like their klutes will give them points, from which point they can even reach a stage where they never have to worry about points as they have so many.
 
-**For the unitiated, your earned points are used to level up into legions. As you reach higher legions, the quality of Klutes keeps improving.<br>
+**For the unitiated, your earned points are used to level up into legions. As you reach higher legions, the quality of Klutes keeps improving.**<br>
 
-**Dynamic gybfrtypl98308**
+**Dynamic gybfrtypl98308**<br>
 Reaching a legion where nobody else is their to view.<br>
 We have to keep in mind and wait for the rest of kluters to reach the creators legion as that is how things work.<br>
 People will reach higher legions.<br>
 And also the previous Klutes will still keep gaining points, as more and more kluters like them.<br>
+
+**The worth of writing more in each klute**<br>
+If you do write a 100 Klutes, with 250 characters each, which is doable, you gain 1,00,000 points! That means you reach Legion 10 with just one Klute.<br>
+More power to you.<br>
 
 ## Consumption
 ![Klutes Consumption](/assets/pictures/consumptionKlutes.svg)
@@ -70,3 +74,6 @@ Find writers who have written atleast one book, engage them so as to turn their 
 ## Platform
 
 Possibility 1: The goto beautiful platform where people launch books and do every other associated task. Everything.
+
+## Legion Leveling
+For each 10,000 points you collect you get 1 legion increase.
