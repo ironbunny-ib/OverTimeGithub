@@ -35,7 +35,7 @@
     - **Example Execution:** ask how they feel now, coax to create what they want youngsters to understand
     
 **Smething that can be made a tactic**<br>
-Find writers who have written atleast on book, engage them so as to turn their books to a klute chain. Find ways
+Find writers who have written atleast one book, engage them so as to turn their books to a klute chain. Find ways
 
 ## Platform
 
