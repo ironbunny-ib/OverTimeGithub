@@ -34,7 +34,7 @@
 4. Old People can post helpful guidlines, stuff which gives us gratefulness, ... , ...<br>
     - **Example Execution:** ask how they feel now, coax to create what they want youngsters to understand
     
-**Smething that can be made a tactic**
+**Smething that can be made a tactic**<br>
 Find writers who have written atleast on book, engage them so as to turn their books to a klute chain. Find ways
 
 ## Platform
