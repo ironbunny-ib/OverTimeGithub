@@ -1,6 +1,7 @@
 <img src="/assets/pictures/klutesbloodred.png" alt="Logo of Klutes" width="200"/>
 
 ## Creation
+![Klutes Creation](/assets/pictures/creationKlutes.svg)
 
 ## Consumption
 
