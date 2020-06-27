@@ -22,12 +22,12 @@ To be exact 4 points, per character are earned.
 
 **Dynamic [#adrkslrpo1092](https://github.com/ironbunny-ib/OverTimeGithub/blob/master/Dynamics.md)**<br>
 People are good at some kind of content creation.<br>
-If this follow people who are good at kluting specifically, will gain not just good amount of points by creating.<br>
+If this follows, people who are good at kluting specifically, will gain not just good amount of points by creating.<br>
 But the peope who like their klutes will give them points, from which point they can even reach a stage where they never have to worry about points as they have so many.
 
 **For the unitiated, your earned points are used to level up into legions. As you reach higher legions, the quality of Klutes keeps improving.**<br>
 
-**Dynamic gybfrtypl98308[#gybfrtypl98308](https://github.com/ironbunny-ib/OverTimeGithub/blob/master/Dynamics.md)**<br>
+**Dynamic [#gybfrtypl98308](https://github.com/ironbunny-ib/OverTimeGithub/blob/master/Dynamics.md)**<br>
 Reaching a legion where nobody else is their to view.<br>
 We have to keep in mind and wait for the rest of kluters to reach the creators legion as that is how things work.<br>
 People will reach higher legions.<br>
@@ -36,6 +36,20 @@ And also the previous Klutes will still keep gaining points, as more and more kl
 **The worth of writing more in each klute**<br>
 If you do write a 100 Klutes, with 250 characters each, which is doable, you gain 1,00,000 points! That means you reach Legion 10 with just one Klute.<br>
 More power to you.<br>
+
+**What are the constraints**<br>
+1. 12 hour un - deadline.<br>
+    - This is the opposite of a deadline. We force you to wait for 12 hrs before kluting.
+    - We recognise you do not re-check many of your writeups, and if you get time to revisit your post, you might just find errors and improvements.
+    - We also know a good writer is happier to post a little late, rather than hurrying up, so we hope you gain from this practice.
+    
+2. 7 days auto post<br>
+    - We do not just post the un-deadline above, we try and inculcate a habit to write good content.
+    - We auto post the content in 7 days, so you focus in those 7 days should be just to write and nothing more.
+    - If you have started a Klute writing process, that is the default page that opens whenever you open the app.
+    - Even more pleasently, we give a pause option, we hope you use it to gain more time in writing klutes which just aren't fully finished yet.
+    
+
 
 ## Consumption
 ![Klutes Consumption](/assets/pictures/consumptionKlutes.svg)
