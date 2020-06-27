@@ -20,14 +20,14 @@ To be exact 4 points, per character are earned.
 
 **For the unitiated, your earned points are used to spend on consuming, that is for eg. reading somebody else's klutes**<br>
 
-**Dynamic adrkslrpo1092**<br>
+**Dynamic [#adrkslrpo1092](https://github.com/ironbunny-ib/OverTimeGithub/blob/master/Dynamics.md)**<br>
 People are good at some kind of content creation.<br>
 If this follow people who are good at kluting specifically, will gain not just good amount of points by creating.<br>
 But the peope who like their klutes will give them points, from which point they can even reach a stage where they never have to worry about points as they have so many.
 
 **For the unitiated, your earned points are used to level up into legions. As you reach higher legions, the quality of Klutes keeps improving.**<br>
 
-**Dynamic gybfrtypl98308**<br>
+**Dynamic gybfrtypl98308[#gybfrtypl98308](https://github.com/ironbunny-ib/OverTimeGithub/blob/master/Dynamics.md)**<br>
 Reaching a legion where nobody else is their to view.<br>
 We have to keep in mind and wait for the rest of kluters to reach the creators legion as that is how things work.<br>
 People will reach higher legions.<br>
