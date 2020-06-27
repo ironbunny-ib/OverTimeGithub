@@ -3,26 +3,35 @@
 ## Creation
 ![Klutes Creation](/assets/pictures/creationKlutes.svg)
 
-**What all is going on here**
+**What all is going on here**<br>
 There is the main theme of writing klutes, for that we have made some rewarding structure, and some constraint structure.<br>
 
-**About Kluting**
+**About Kluting**<br>
 There is an ability to write upto 100 Klutes. We can market as a limit or as a unlimited feature. You tell which one is correct .<br>
 Each Klute except the first requires atleast 140 characters and at most 230 characters. The first Klute has a lower limit of 5 characters.<br>
 The lower limit allows the creator to feign interest for the right reasons like creating sense of anticipation.<br>
 Good Kluters can capitalize on this and deliver powerful follow up messages.<br>
 
-**About how the reward structure helps in putting forward the power of Kluting**
+**About how the reward structure helps in putting forward the power of Kluting**<br>
 Writing is not easy, and great writers know it.<br>
 What are the words which will satiate their audience are not to be taken unseriously at all.<br>
 We reward this careful consideration to the extent of each character which touches the screen.<br>
 To be exact 4 points, per character are earned.
 
-**For the unitiated, your earned points are used to spend on consuming, that is for eg. reading somebody else's klutes**
+**For the unitiated, your earned points are used to spend on consuming, that is for eg. reading somebody else's klutes**<br>
 
+**Dynamic adrkslrpo1092**<br>
+People are good at some kind of content creation.<br>
+If this follow people who are good at kluting specifically, will gain not just good amount of points by creating.<br>
+But the peope who like their klutes will give them points, from which point they can even reach a stage where they never have to worry about points as they have so many.
 
+**For the unitiated, your earned points are used to level up into legions. As you reach higher legions, the quality of Klutes keeps improving.<br>
 
-
+**Dynamic gybfrtypl98308**
+Reaching a legion where nobody else is their to view.<br>
+We have to keep in mind and wait for the rest of kluters to reach the creators legion as that is how things work.<br>
+People will reach higher legions.<br>
+And also the previous Klutes will still keep gaining points, as more and more kluters like them.<br>
 
 ## Consumption
 ![Klutes Consumption](/assets/pictures/consumptionKlutes.svg)
