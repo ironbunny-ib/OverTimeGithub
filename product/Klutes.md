@@ -56,6 +56,12 @@ Keep working on the creation part and make it an even more compelling space to k
 ## Consumption
 ![Klutes Consumption](/assets/pictures/consumptionKlutes.svg)
 
+
+**Tasks**<br>
+1. As people level up their legions, give them more and more options to refine what they view.
+2. As they grow their legion, make it much clearer on what they actualy want to see.
+3. Recommended things based on their natural inner aura
+
 ## Product
 **Klutes is for contemplation.**
 
