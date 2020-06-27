@@ -50,6 +50,8 @@ More power to you.<br>
     - Even more pleasently, we give a pause option, we hope you use it to gain more time in writing klutes which just aren't fully finished yet.
     
 
+**Tasks**<br>
+Keep working on the creation part and make it an even more compelling space to klute 
 
 ## Consumption
 ![Klutes Consumption](/assets/pictures/consumptionKlutes.svg)
