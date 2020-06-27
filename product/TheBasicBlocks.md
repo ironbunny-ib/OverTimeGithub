@@ -12,6 +12,8 @@
 ## Gamification and InterConnectedNess
 ##### Persevere the failure
 ##### Always Propotional to other apps
+##### Legion System
+
 
 <br>
 <br>
