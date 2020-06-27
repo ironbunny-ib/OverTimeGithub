@@ -4,6 +4,7 @@
 ![Klutes Creation](/assets/pictures/creationKlutes.svg)
 
 ## Consumption
+![Klutes Consumption](/assets/pictures/consumptionKlutes.svg)
 
 ## Product
 **Klutes is for contemplation.**
