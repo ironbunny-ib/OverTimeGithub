@@ -1,3 +1,9 @@
+## Goal
+Add 1 to the number of times a person contemplates in a month
+<br>
+<br>
+<br>
+<br>
 <img src="/assets/pictures/klutesbloodred.png" alt="Logo of Klutes" width="200"/>
 
 ## Creation
