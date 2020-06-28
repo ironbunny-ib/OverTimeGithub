@@ -1,13 +1,14 @@
 # OverTimeGithub
 #### everbody, **RISE!** : )
-<br>OT has 3 branches today on 28-Jun-2020 : Last Update(21-May-2020) : First Date(21-May-2020)
+<br>OT has 4 branches today on 28-Jun-2020 : Last Update(21-May-2020) : First Date(21-May-2020)
 <br>
  - Tech
  - Product
  - Marketing
+ - Finance
 <br>
 
-I intend to opensource all three. Truth be told, I am not really sure
+I intend to opensource all four. Truth be told, I am not really sure
 how to do this, but I have ideas and will try them.<br><br>
 ![Image of OpenSourcing](/assets/pictures/Opensourcing.svg)
 
@@ -29,5 +30,5 @@ OT is a tech company which adores people, animals and even inanimate matter. We 
 Declaration : 
 > We are always highly alert and aware of apparent threats of Artificial General Intelligence and purposefully create a future which is disparitively different as that in media, movies and ransackers. As we aim to be opensource in all our dealings, even money, things shall be questioned and reflected always, so we stay true to this.
 
-The world changes very fast, and though our purpose is to accelerate this to alleviate poverty, sins,.... we understand business cycles and people
-are not very understanding sometimes, so, may our thinking evolve, our processes may lag and we need your help there to be patient with us.
+The world changes very fast, and though our purpose is to accelerate this to alleviate poverty, sins,.... we understand business cycles and people,
+which are not very understanding sometimes, so, may our thinking evolve, our processes may lag and we need your help there to be patient with us.
