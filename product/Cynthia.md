@@ -34,6 +34,9 @@ Keep working on the creation part and make it an even more compelling space to k
 **Tasks**<br>
 
 ## Product
-Cynthia lets you do what's best for your company, that is have an idea-led culture.
+**For the company**<br>
+Cynthia lets you do what's best for your company, that is have an idea-led culture.<br><br>
+**For the individual**<br>
+Cynthia helps you govern your position in the company, by bringing your ideas in the forefront.<br>
 ## Platform
 ## Legion Leveling
