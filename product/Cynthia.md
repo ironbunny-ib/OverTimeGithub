@@ -34,6 +34,8 @@ Keep working on the creation part and make it an even more compelling space to k
 **Tasks**<br>
 
 ## Product
+Cynthia is for ideas
+<br><br>
 **For the company**<br>
 Cynthia lets you do what's best for your company, that is have an idea-led culture.<br><br>
 **For the individual**<br>
