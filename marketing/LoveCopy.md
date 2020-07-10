@@ -30,3 +30,7 @@ LoveCopy is part of the larger intitative to improve your personal(private), rel
 > B. Only messages from the one you allow <br>
 > C. A private space to store all that is just 'LOVE'<br>
 > D. Change your lover anytime, but keep the messages of the old one. <br>
+
+#### Ask for feedback
+
+Let us know what you want to have added in the reviews.
