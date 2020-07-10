@@ -26,6 +26,7 @@ LoveCopy is part of the larger intitative to improve your personal(private), rel
 
 #### Playstore Possibilities
 
-> Let's start by sending a meaningful message to your loved one.<br>
-> Only messages from the one you allow <br>
-> A private space to store all that is just 'LOVE'<br>
+> A. Let's start by sending a meaningful message to your loved one.<br>
+> B. Only messages from the one you allow <br>
+> C. A private space to store all that is just 'LOVE'<br>
+> D. Change your lover anytime, but keep the messages of the old one. <br>
