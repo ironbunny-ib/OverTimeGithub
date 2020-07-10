@@ -17,7 +17,7 @@
 # Version 2 now current
 
 #### Renamed to LoveCopy
-
+The name klutes has been abandoned.
 <br>
 <br>
 
