@@ -21,3 +21,9 @@
 #### PlayStore Description End
 
 LoveCopy is part of the larger intitative to improve your personal(private), relational and public life.
+
+## Playstore Possibilities
+
+> Let's start by sending a meaningful message to your loved one.<br>
+> Only messages from the one you allow <br>
+> A private space to store all that is just 'LOVE'<br>
