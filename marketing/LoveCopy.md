@@ -1,3 +1,4 @@
+# Version 1 now old
 ## Marketing Strategy
 
 ## Exact version of Marketing words
@@ -13,3 +14,10 @@
 <br>
 ![Image of Set1 without text](/assets/pictures/Set1withouttext.svg)
 
+# Version 2 now current
+
+#### Renamed to LoveCopy
+
+#### PlayStore Description End
+
+LoveCopy is part of the larger intitative to improve your personal(private), relational and public life.
